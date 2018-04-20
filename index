@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>The Frikot</title>
+        <meta name="description" content="french fries">
+        <link rel="stylesheet" href="C:/users/bwala/Documents/Frikot/main.css">
+    </head>
+    <body>
+        
+        <center>
+        <test>The Frikot</test>
+<br>
+        <slogan>a photo-journal</slogan>
+            
+        <img src="https://frikot.files.wordpress.com/2018/04/fries.jpg" />
+        <caption>Greenpoint Brewery, Brooklyn, NY, USA</caption>
+<br>
+        <button>First</button>
+        <button>Random Fries</button>
+        <button>Last</button>
+        </center>
+              
